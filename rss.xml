@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[videogamesordie]]></title>
         <description><![CDATA[videogamesordie]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/videogamesordie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 10:54:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Mar 2016 10:56:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/videogamesordie/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/95d09918-08cc-4327-bfa9-38d8cf31ff33.jpg">]]></description>
+            <link>https://thegrid.ai/videogamesordie/53b213a1-d287-42c8-b246-bd1db9d30ae6/index.html</link>
+            <guid isPermaLink="false">53b213a1-d287-42c8-b246-bd1db9d30ae6</guid>
+            <pubDate>Wed, 30 Mar 2016 10:56:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>test test test</p>]]></description>
-            <link>undefinedc5fca9fc-f815-472f-b1f0-5edc5d666d37/index.html</link>
+            <link>https://thegrid.ai/videogamesordie/c5fca9fc-f815-472f-b1f0-5edc5d666d37/index.html</link>
             <guid isPermaLink="false">c5fca9fc-f815-472f-b1f0-5edc5d666d37</guid>
             <pubDate>Wed, 30 Mar 2016 10:54:19 GMT</pubDate>
         </item>
